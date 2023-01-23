@@ -1,0 +1,30 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  padding: 0 2rem;
+}
+/* CURSORS */
+.mv-cursor-pointer {
+  cursor: pointer;
+}
+
+/* OPACITY */
+.mv-full-opacity {
+  opacity: 0;
+}
+.mv-mid-opacity {
+  opacity: 0.5;
+}
+.mv-not-opacity {
+  opacity: 1;
+}
+/* OPACITY HOVER*/
+.mv-full-opacity:hover {
+  opacity: 0;
+}
+.mv-mid-opacity-hover:hover {
+  opacity: 0.5;
+}
+.mv-not-opacity-hover:hover {
+  opacity: 1;
+}
