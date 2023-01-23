@@ -1,0 +1,11 @@
+.mv-cross div {
+  height: 100%;
+  border: 5px solid;
+  position: absolute;
+}
+.mv-cross div:first-child {
+  transform: rotate(45deg);
+}
+.mv-cross div:last-child {
+  transform: rotate(-45deg);
+}
