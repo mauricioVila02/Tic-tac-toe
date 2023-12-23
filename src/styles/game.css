@@ -1,0 +1,20 @@
+.mv-base-frame {
+  width: 50px;
+  height: 50px;
+}
+
+.mv-top-border {
+  border-top: 2px solid black;
+}
+
+.mv-right-border {
+  border-right: 2px solid black;
+}
+
+.mv-left-border {
+  border-left: 2px solid black;
+}
+
+.mv-bottom-border {
+  border-bottom: 2px solid black;
+}

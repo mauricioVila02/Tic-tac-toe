@@ -28,3 +28,10 @@ body {
 .mv-not-opacity-hover:hover {
   opacity: 1;
 }
+
+.mv-center-element {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
