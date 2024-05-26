@@ -13,8 +13,8 @@ const Home = () => {
       </section>
       <Button text="PLAY" onClick={() => console.log("..")} />
       <section className="d-flex">
-        <h2>Play with machine</h2>
-        <input type="checkbox" />
+        <h2>Play with machine my friend</h2>
+        <input type="checkbox" />  
       </section>
     </div>
   );
