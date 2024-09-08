@@ -1,4 +1,3 @@
-import classNames from "classnames";
 import { IFigure } from "../../global/interfaces";
 import FigureContainer from "../figureContainer/figureContainer";
 import "./../../styles/cross.css";

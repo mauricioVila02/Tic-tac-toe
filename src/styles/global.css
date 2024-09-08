@@ -35,3 +35,25 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+
+/* FIGURE CONTAINER */
+.mv-figure-selector-container {
+  padding: 50px;
+}
+
+/* BOARD */
+.board {
+  padding: 50px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px; /* Espacio entre los divs */
+}
+.board-item {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+}

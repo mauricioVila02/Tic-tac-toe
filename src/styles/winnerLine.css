@@ -1,0 +1,26 @@
+.winner-line {
+  z-index: 2;
+  background-color: green;
+}
+
+.winner-line.horizontal-winner-line {
+  width: 120%;
+  height: 10px;
+}
+
+.winner-line.vertical-winner-line {
+  height: 120%;
+  width: 10px;
+}
+
+.winner-line.secondary-diagonal-winner-line {
+  transform: rotate(45deg);
+  height: 200%;
+  width: 10px;
+}
+
+.winner-line.main-diagonal-winner-line {
+  transform: rotate(-45deg);
+  height: 200%;
+  width: 10px;
+}
